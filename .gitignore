@@ -1,0 +1,7 @@
+node_modules
+*.wasm
+
+.DS_Store
+go-sdk
+
+go.work
